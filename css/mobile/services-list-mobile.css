@@ -10,7 +10,6 @@
 .services-list-item{
     padding: 24px;
     border-radius: 4px;
-    /* height: 527px; */
 }
 
 .services-list-item:not(:last-child) {
