@@ -4,13 +4,13 @@
 }
 
 .services-container {
-    /* max-width: 424px; */
     max-width: calc(424px + 30px * 2);
 }
 
 .services-list-item{
     padding: 24px;
     border-radius: 4px;
+    /* height: 527px; */
 }
 
 .services-list-item:not(:last-child) {

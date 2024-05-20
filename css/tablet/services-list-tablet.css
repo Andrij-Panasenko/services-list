@@ -1,0 +1,15 @@
+@media screen and (min-width: 933px) {
+    .container {
+        max-width: 932px;
+    }
+
+    .services-list {
+        display: flex;
+        flex-wrap: wrap;
+        column-gap: 24px;
+    }
+
+    .services-list-item {
+        width: calc((100% - 24px) / 2);
+    }
+}
