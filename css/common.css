@@ -1,3 +1,11 @@
+:root {
+    --green: #179d2e;
+    --blue: #0177b8;
+    --orange: #f5af23;
+    --red:#f02e2c;
+    --text: #181833;
+}
+
 .link {
     text-decoration: none;
 }
